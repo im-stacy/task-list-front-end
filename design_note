@@ -1,0 +1,12 @@
+total components: 3
+1. #header page component
+    header 1: ada's task list
+
+2. #task current tasks component
+    task description box - task delete botton
+
+3. #add a task component 
+    add a task subheading
+    input task lable - input task field
+    isComplete lable - isComplete dropdown menu
+    add task button 
